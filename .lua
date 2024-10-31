@@ -4,7 +4,7 @@ local Camera = workspace.CurrentCamera
 local RunService = game:GetService("RunService")
 
 -- Configuration settings
-local ESPColor = Color3.fromRGB(255, 255, 255)  -- Color of the distance text
+local ESPColor = Color3.fromRGB(199,21,133)  -- Color of the distance text
 local TextSize = 18  -- Size of the distance text
 local MaxDistance = 500  -- Max distance for ESP visibility
 
